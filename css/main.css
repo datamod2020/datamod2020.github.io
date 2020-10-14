@@ -36,6 +36,12 @@ a.prevEd{
     display: contents;
 }
 
+
+span.keynote {
+    font-size: 110%;
+    padding-top: 2%;
+    font-weight: 900;
+}
 /*
 *	DESTINY - WEDDING HTML TEMPLATE
 * 	Copyright 2016
